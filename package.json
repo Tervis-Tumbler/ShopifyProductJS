@@ -1,0 +1,11 @@
+{
+  "name": "@tervis/shopifyproduct",
+  "version": "1.0.0",
+  "description": "Shopify product functions",
+  "main": "ShopifyProduct.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamilton Perez",
+  "license": "MIT"
+}
