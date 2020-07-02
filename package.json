@@ -1,6 +1,6 @@
 {
   "name": "@tervis/shopifyproduct",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shopify product functions",
   "main": "ShopifyProduct.js",
   "scripts": {
