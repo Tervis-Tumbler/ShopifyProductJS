@@ -1,4 +1,4 @@
-async function Get_ShopifyProductMetafield(
+export async function Get_ShopifyProductMetafield(
     {
         $ShopifyDomain,
         $ShopifyAccessToken,
